@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{D56AEABF-DDAE-4641-9897-700B78023040}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{AC9D69CD-BEAC-4E41-930C-796CC6BB8866}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BussinessLogic", "BussinessLogic\BussinessLogic.csproj", "{0526C933-988A-4638-B353-5E96F9CBDFEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D56AEABF-DDAE-4641-9897-700B78023040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D56AEABF-DDAE-4641-9897-700B78023040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D56AEABF-DDAE-4641-9897-700B78023040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D56AEABF-DDAE-4641-9897-700B78023040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC9D69CD-BEAC-4E41-930C-796CC6BB8866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9D69CD-BEAC-4E41-930C-796CC6BB8866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9D69CD-BEAC-4E41-930C-796CC6BB8866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9D69CD-BEAC-4E41-930C-796CC6BB8866}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0526C933-988A-4638-B353-5E96F9CBDFEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0526C933-988A-4638-B353-5E96F9CBDFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0526C933-988A-4638-B353-5E96F9CBDFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0526C933-988A-4638-B353-5E96F9CBDFEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7D37F1A-DE98-426F-9136-BCBAEFC1D0AC}
+	EndGlobalSection
+EndGlobal
